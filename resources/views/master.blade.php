@@ -21,7 +21,7 @@
             <hr>
             <ul class="nav nav-pills flex-column mb-auto">
                 <li class="nav-item">
-                    <a href="admin" class="nav-link text-white active"><i class="bi bi-bank2 me-2"></i>  HOME</a>
+                    <a id="adm" href="admin" class="nav-link text-white"><i class="bi bi-bank2 me-2"></i>  HOME</a>
                 </li>
                 <li class="nav-item"></li>
                     <a href="mproject" class="nav-link text-white"><i class="bi bi-toggles2 me-2"></i>  MASTER PROJECT</a>
@@ -44,7 +44,7 @@
         <div class="col-md-10 bg-white">
             <div class="container-fluid">
                 <div class="row p-3">
-                    <h2 class="">Master Project @yield('content-title')</h2>
+                    <h2 class=""> @yield('content-title')</h2>
                 </div>
                 <div class="row">
                     @yield('content')
@@ -54,5 +54,6 @@
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"crossorigin="anonymous"></script>
+    
   </body>
 </html>

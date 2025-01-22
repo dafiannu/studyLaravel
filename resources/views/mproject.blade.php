@@ -20,28 +20,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
-                            <td>1</td>
-                            <td>Company Profile SMKN 1 Surabaya</td>
-                            <td>20 Februari 2023</td>
-                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem laudantium quia natus, aspernatur perspiciatis consequuntur impedit harum, fugiat necessitatibus veritatis porro. Sequi libero iste perspiciatis atque, et distinctio nemo omnis.</td>
-                            <td>
-                                <button class="btn btn-sm btn-info" data-bs-toggle="modal" data-bs-target="#detailproject"> <i class="bi bi-eye"></i></button>
-                                <a class="btn btn-sm btn-warning" href=""><i class="bi bi-pencil-square"></i></a>
-                                <a class="btn btn-sm btn-danger" href=""><i class="bi bi-trash-fill"></i></a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td>2</td>
-                            <td>Company Profile SMKN 12 Surabaya</td>
-                            <td>20 Februari 2023</td>
-                            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem laudantium quia natus, aspernatur perspiciatis consequuntur impedit harum, fugiat necessitatibus veritatis porro. Sequi libero iste perspiciatis atque, et distinctio nemo omnis.</td>
-                            <td>
-                                <button class="btn btn-sm btn-info" data-bs-toggle="modal" data-bs-target="#detailproject"><i class="bi bi-eye"></i></button>
-                                <a class="btn btn-sm btn-warning" href=""><i class="bi bi-pencil-square"></i></a>
-                                <a class="btn btn-sm btn-danger" href=""><i class="bi bi-trash-fill"></i></a>
-                            </td>
-                        </tr>
+                        
                     </tbody>
                 </table>
 

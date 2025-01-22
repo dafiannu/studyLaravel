@@ -1,9 +1,8 @@
 @extends('master')
-@section('title', 'Master Project')
-@section('content-title', 'Master Project')
+@section('title', 'Master Service')
+@section('content-title', 'Master service')
 @section('content')
 <div id="card" class="card-pj">
-    <h3 class="m-3 fw-bold">Master Project</h3>
     <hr>
     <div class="container d-flex gap-3 mt-3">
       <div id="in-card" class="card" style="width: 18rem;">
@@ -24,4 +23,5 @@
       </div>
     </div>
   </div>
+  
 @endsection
