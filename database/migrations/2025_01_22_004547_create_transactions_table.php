@@ -23,8 +23,7 @@ return new class extends Migration
             $table->foreign('court_id')->references('id')->on('courts');
             $table->time('starttime');
             $table->time('endtime');
-            $table->integer('duration');
-            $table->integer('costume');
+            $table->boolean('costume');
             $table->integer('shoes');
             $table->integer('total');
             $table->integer('grandtotal');
