@@ -23,5 +23,7 @@ class CourtTypeSeeder extends Seeder
                 'name' => $faker -> numberBetween(1, 2)
             ]);
         }  
+
+
     }
 }
